@@ -1,5 +1,5 @@
-group 'com.baseflow.geolocator'
-version '1.0'
+group = 'com.baseflow.geolocator'
+version = '1.0'
 
 buildscript {
     repositories {
